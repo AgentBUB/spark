@@ -160,6 +160,6 @@ CreateThread( function()
 			print('\t|^8       spark. PLEASE STOP "lvc" AND RESTART spark.      ^7|')
 	end
 	print('\t^7|________________________________________________________|')
-	print('\t^7|  Updates, Support, Feedback: ^5discord.link/redneckmods  ^7|')
+	print('\t^7|  Updates, Support, Feedback: ^5discord.gg/redneckmods    ^7|')
 	print('\t^7|________________________________________________________|\n\n')
 end)
