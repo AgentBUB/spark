@@ -10,6 +10,8 @@ A combination and overhaul of Luxart Vehicle Control v3 and the Redneck Lighting
 
 ### Support, Suggestions, and Updates: [Redneck Modifications Discord](https://discord.gg/redneckmods)
 
+Please feel free to join our Discord; however, using the [Issues Tab](https://github.com/AgentBUB/spark/issues) here on Github will help with bugs and suggestions!
+
 <a href="https://discord.gg/redneckmods"><img target="_blank" src="https://discordapp.com/api/guilds/444687526687408148/widget.png?style=banner3"></a>
 
 ### Plugins:
