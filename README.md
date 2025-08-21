@@ -6,7 +6,7 @@
 
 A combination and overhaul of Luxart Vehicle Control v3 and the Redneck Lighting Controller to build one smooth resource. No longer does it require 2 different things to make RLC / LVC work together well, and the configuration is now so much easier to understand!
 
-### Documentation and About: _Coming Soon_
+### Documentation and About: [docs.shadowdevs.com](https://docs.shadowdevs.com/docs/spark/getting-started)
 
 ### Support, Suggestions, and Updates: [Redneck Modifications Discord](https://discord.gg/redneckmods)
 

@@ -302,7 +302,7 @@ RegisterNetEvent('parkPattern::sync::receive', function(vehicles)
 end)
 
 RegisterKeyMapping('_spark_cruiseLights', 'Cruise Lights', 'keyboard', 'DECIMAL')
-RegisterKeyMapping('_spark_cornerCruiseLights', 'Cruise Lights', 'keyboard', 'NUMPAD6')
+RegisterKeyMapping('_spark_cornerCruiseLights', 'Corner Cruise Lights', 'keyboard', 'NUMPAD6')
 RegisterKeyMapping('_spark_fullLightKill', 'Full Light Kill', 'keyboard', 'PLUS')
 RegisterKeyMapping('_spark_tac', 'Traffic Advisor Center', 'keyboard', 'NUMPAD5')
 RegisterKeyMapping('_spark_pp', 'Park Pattern', 'keyboard', 'NUMPAD0')
